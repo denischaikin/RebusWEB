@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/BLL/bin/Debug/netcoreapp2.0
+/BLL/obj
+/CompositionRoot/bin/Debug/netcoreapp2.0
+/CompositionRoot/obj
+/DAL/bin/Debug/netcoreapp2.0
+/DAL/obj
+/RebusWEB/bin/Debug/netcoreapp2.0
+/RebusWEB/obj
+/RebusWEB/appsettings.json
