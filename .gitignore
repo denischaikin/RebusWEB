@@ -12,3 +12,7 @@
 /RebusWEB/bin/Debug/netcoreapp2.0
 /RebusWEB/obj
 /RebusWEB/appsettings.json
+/RebusAPI/bin/Debug/netcoreapp2.0
+/RebusAPI/obj/Debug/netcoreapp2.0
+/RebusAPI/obj
+/RebusAPI/appsettings.json
